@@ -1,2 +1,1 @@
-# carrentalfrontend
-Created with CodeSandbox
+# car rental frontend
